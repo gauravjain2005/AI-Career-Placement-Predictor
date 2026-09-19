@@ -4,8 +4,10 @@ An AI/ML-based web application that predicts a student's placement probability b
 
 ## 👨‍💻 Developer
 
-**Gaurav Jain**  
-B.Tech CSE (AIML)  
+**Gaurav Jain**
+
+B.Tech CSE (AIML)
+
 Poornima University
 
 ---
